@@ -1,0 +1,34 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11515</md:content-id>
+  <md:title>Taller de redacción científica para personal sanitario</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <md:language>es</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>b95842eb-f975-48da-ba47-57692b6b2069</md:uuid>
+<md:slug>taller-de-redaccion-cientifica-para-personal-sanitario</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m46145"/>
+        
+      
+    
+    
+      <col:module document="m46146"/>
+        
+      
+    
+  </col:content>
+</col:collection>
